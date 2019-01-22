@@ -1,6 +1,6 @@
-# A description of what this class does
+# This class configures the settings for AWS security groups
 #
-# @summary A short summary of the purpose of this class
+# @summary ng security group is being configured
 #
 # @example
 #   include aws_resources::securitygroups
